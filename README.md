@@ -16,7 +16,7 @@ ________________________________________________________________________________
 | - |
 | ![desktop-ui-layout](https://user-images.githubusercontent.com/93367648/220075904-315a19c7-7f06-4ded-bf3a-60240be45137.png) |
 
-## ⭐[Enlace a la Web](https://emmanuel-vandick9.github.io/layout-responsivos/)
+## ⭐[Enlace a la Web](https://emmanuel-vandyk.github.io/layout-responsivos/)
 
 
 
